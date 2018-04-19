@@ -10,31 +10,27 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Deep learning",
+    "Natural Language Processing",
+    "Computer Vision",
+    "Reinforcement Learning"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "MSc in Electrical Engineering"
+  institution = "Amirkabir University of Technology"
+  year = 2015
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
+  course = "BSc in Electrical Engineering"
+  institution = "Amirkabir University of Technology"
   year = 2009
-
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
  
 +++
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I'm Ebrahim Soroush, people call me Ebi, a senior developer and deep learning engineer at [Faraadid Co](http://www.faraadid.com), Tehran, Iran. I have graduated from [Amirkabir University of Technology (Tehran Polytechnic)](http://www.aut.ac.ir),Tehran,Iran, with a Master of science degree in Electrical Engineering. I also received my Bachelor degree in Electrical Engineering form the same department.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+I enjoy implementing Deep Learning and Machine learning applications in C/C++ and Python languages. I have always found learning new things interesting and my favorite hobby is debugging obstinate codes/networks that doesn't seem to be tractable.
