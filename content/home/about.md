@@ -25,7 +25,7 @@ weight = 5
 [[education.courses]]
   course = "BSc in Electrical Engineering"
   institution = "Amirkabir University of Technology"
-  year = 2009
+  year = 2013
  
 +++
 
