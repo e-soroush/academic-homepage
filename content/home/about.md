@@ -31,6 +31,6 @@ weight = 5
 
 # Biography
 
-I'm Ebrahim Soroush, people call me Ebi, a senior developer and deep learning engineer at [Faraadid Co](http://www.faraadid.com), Tehran, Iran. I have graduated from [Amirkabir University of Technology (Tehran Polytechnic)](http://www.aut.ac.ir),Tehran,Iran, with a Master of science degree in Electrical Engineering. I also received my Bachelor degree in Electrical Engineering form the same department.
+I'm Ebrahim Soroush, people call me Ebi, a senior developer and deep learning engineer at [Faraadid Co](http://www.faraadid.com/VisitorPages/default.aspx?itemid=3), Tehran, Iran. I have graduated from [Amirkabir University of Technology (Tehran Polytechnic)](http://aut.ac.ir/aut/),Tehran,Iran, with a Master of science degree in Electrical Engineering. I also received my Bachelor degree in Electrical Engineering form the same department.
 
 I enjoy implementing Deep Learning and Machine learning applications in C/C++ and Python languages. I have always found learning new things interesting and my favorite hobby is debugging obstinate codes/networks that doesn't seem to be tractable.
