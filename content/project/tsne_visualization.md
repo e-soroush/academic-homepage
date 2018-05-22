@@ -12,7 +12,7 @@ tags = ["tensorflow", "computer-vision"]
 summary = "A fun project for tsne visualization of image dataset"
 
 # Optional image to display on homepage.
-image_preview = "merged-MSRC-ellipsoide-inception.png"
+image_preview = "merged-MSRC-ellipsoide-inception_cropped.png"
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
