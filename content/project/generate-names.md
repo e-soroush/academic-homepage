@@ -14,7 +14,7 @@ summary = "This is a simple fun project for generating names using rnn"
 image_preview = "generate-names.png"
 
 # Optional external URL for project (replaces project detail page).
-external_link = "https://github.com/e-soroush/generate-names"
+external_link = "https://github.com/e3oroush/generate-names"
 
 # Does the project detail page use math formatting?
 math = false
